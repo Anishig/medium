@@ -1,5 +1,6 @@
 # MANIT BLOGS
 MANIT BLOGS is a modern blogging application inspired by platforms like Medium, designed to empower users to share their ideas and stories with the world. 
+LIVE- https://blog-app-c7cq.vercel.app/
 
 ## Tech Stack
 ### Frontend
